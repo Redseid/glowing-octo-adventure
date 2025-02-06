@@ -10,7 +10,7 @@ This is a small project to practice HTML and CSS. It includes basic elements suc
 
 ## How to View  
 You can visit the live version of this project here:  
-🔗 [Your GitHub Pages Link](https://yourusername.github.io/repository-name/)  
+🔗 [Your GitHub Pages Link](https://redseid.github.io/glowing-octo-adventure/)  
 
 ## Purpose  
 This project is for learning purposes only and will be improved step by step as I explore more about web development.   
